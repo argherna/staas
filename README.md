@@ -15,7 +15,8 @@ GET /tokens/{toTokenize}
 ```
 ### Parameters
 
-||Parameter||Required||Description||
+| Parameter | Required | Description |
+| --------- | -------- | ----------- |
 | `toTokenize` | Yes | The string to tokenize |
 | `delimiter` |No | The delimiter to use; defaults to `,`|
 
